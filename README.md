@@ -4,20 +4,12 @@
 
 PulseAI is an AI-powered platform that monitors user behavior across multiple systems (mobile apps, websites, and SaaS platforms), predicts churn risk, and proactively engages users with personalized outreach to improve retention and customer satisfaction.
 
----
-
-## 🎯 Problem Statement
-
 Modern businesses struggle to retain users due to lack of timely engagement. This project builds a predictive system that:
 
 * Tracks user activity
 * Identifies at-risk users
 * Predicts churn probability
 * Automatically sends personalized outreach messages
-
----
-
-## 💡 Solution
 
 PulseAI uses Machine Learning and AI Agents to analyze user behavior and take proactive actions before users disengage. It intelligently decides **when**, **how**, and **what** message to send.
 
@@ -153,12 +145,6 @@ DATABASE_URL=your_database_url
 
 **An AI-powered platform that predicts user churn and proactively engages users with personalized outreach to improve retention.**
 
----
-
-## 👥 Team
-
-* Your Name
-* Team Members (if any)
 
 ---
 
@@ -171,6 +157,3 @@ DATABASE_URL=your_database_url
 
 ---
 
-## 📄 License
-
-This project is for hackathon/demo purposes.
